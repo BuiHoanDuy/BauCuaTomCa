@@ -1,0 +1,73 @@
+body{
+    background-image: url("img/back4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Nap{
+    width: 350px;
+    position: absolute;
+    transition: margin 0.5s ease;
+}
+#Dia{
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.Xoc{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+/* #Dat{
+    width: 500px;
+    margin-left: 500px;
+} */
+.ThaoTac button{
+    background-color: #FA9F42;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+.ThaoTac{
+    position: relative;
+    margin-left: 530px;
+}
+.Hat div{
+    z-index: 1;
+}
+.Hat div img{
+    width: 100px;
+}
+.Hat1{
+    margin-left: 480px;
+    margin-top: -200px;
+}
+.Hat2{
+    margin-left: 540px;
+    margin-top: -230px;
+}
+.Hat3{
+    margin-left: 610px;
+    margin-top: 23px;
+}
+#Music button{
+    background-color: #A4C3A2;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+#Music{
+    margin-left: 300px;
+    margin-top: -250px;
+}
